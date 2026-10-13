@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VishalAdina/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/VishalAdina/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/VishalAdina/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1314-matrix-block-sum](https://github.com/VishalAdina/leetcode-solutions/tree/master/1314-matrix-block-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/VishalAdina/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalAdina/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/VishalAdina/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1314-matrix-block-sum](https://github.com/VishalAdina/leetcode-solutions/tree/master/1314-matrix-block-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/VishalAdina/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/VishalAdina/leetcode-solutions/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
